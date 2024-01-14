@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Tom Hancock",
+            "title": "Erling Haaland's OWN MANAGER tips Lionel Messi to win 2023 Ballon d'Or",
+            "description": "The nominees for football's biggest individual prize have dropped, and everyone seems to be expecting Messi to run away with it...",
+            "url": "https://www.fourfourtwo.com/news/erling-haalands-own-manager-tips-lionel-messi-to-win-2023-ballon-dor",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/48jCaBDvLNuN58NcQLPAYi-1200-80.jpg",
+            "publishedAt": "2023-09-11T10:00:00Z",
+            "content": "Norway boss Stale Solbakken has conceded that Lionel Messi should win the 2023 Ballon d'Or, despite Erling Haaland being among the favourites after his astonishingly prolific first Manchester City se… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "161385360554578",
+            "title": "Rubiales finally resigns, Antony takes Man United leave of absence, Sancho showdown talks",
+            "description": "The international break is in full swing and there is plenty to talk about in the world of football. Here, talkSPORT.com keeps you updated on the latest news and reaction… Luis Rubiales resig…",
+            "url": "https://talksport.com/football/1554884/football-news-premier-league-antony-man-united-jadon-sancho-luis-rubiales/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/09/JF-TALKSPORT-BLOG.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-09-11T07:20:30Z",
+            "content": "A record sum of almost £6billion was spent on international transfer deals this summer, with Saudi clubs’ spending topping £700million.\r\nThe outlay by clubs in the Pro League was second only to the P… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Gazza, thrashings and Tartan joy - the 'Auld Enemy' meet again",
+            "description": "BBC Sport's chief football writer Phil McNulty reflects on memorable moments between England and Scotland since the fixture's biggest scoreline in 1961.",
+            "url": "http://www.bbc.co.uk/sport/football/66768949",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0C85/production/_131050230_bbc-sport-index-imagery-2-split-images-gradient-72f67619-1e7a-4c12-8b9f-df90823ffb3b.png",
+            "publishedAt": "2023-09-11T06:52:24.6710289Z",
+            "content": "Scotland and England meet at Hampden Park on Tuesday in what is being billed as the heritage match to celebrate the 150th anniversary of the oldest international fixture. \r\nIt may be regarded as a fr… [+7805 chars]"
+        }
+    ] 
+}
